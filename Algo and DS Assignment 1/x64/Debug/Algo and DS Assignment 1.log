@@ -1,0 +1,73 @@
+﻿  Algo and DS Assignment 1.cpp
+C:\Users\dowmi\source\repos\Algo and DS Assignment 1\Algo and DS Assignment 1\Algo and DS Assignment 1.cpp(91,3): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\Users\dowmi\source\repos\Algo and DS Assignment 1\Algo and DS Assignment 1\Algo and DS Assignment 1.cpp(92,3): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\Users\dowmi\source\repos\Algo and DS Assignment 1\Algo and DS Assignment 1\Algo and DS Assignment 1.cpp(93,3): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\Users\dowmi\source\repos\Algo and DS Assignment 1\Algo and DS Assignment 1\Algo and DS Assignment 1.cpp(94,3): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\Users\dowmi\source\repos\Algo and DS Assignment 1\Algo and DS Assignment 1\Algo and DS Assignment 1.cpp(96,6): error C3863: array type 'std::string [50]' is not assignable
+C:\Users\dowmi\source\repos\Algo and DS Assignment 1\Algo and DS Assignment 1\Algo and DS Assignment 1.cpp(97,8): error C3863: array type 'std::string [50]' is not assignable
+C:\Users\dowmi\source\repos\Algo and DS Assignment 1\Algo and DS Assignment 1\Algo and DS Assignment 1.cpp(98,9): error C3863: array type 'std::string [50]' is not assignable
+C:\Users\dowmi\source\repos\Algo and DS Assignment 1\Algo and DS Assignment 1\Algo and DS Assignment 1.cpp(99,12): error C3863: array type 'std::string [50]' is not assignable
+C:\Users\dowmi\source\repos\Algo and DS Assignment 1\Algo and DS Assignment 1\Algo and DS Assignment 1.cpp(114,2): error C2360: initialization of 'tempCategory' is skipped by 'case' label
+  C:\Users\dowmi\source\repos\Algo and DS Assignment 1\Algo and DS Assignment 1\Algo and DS Assignment 1.cpp(73,16):
+  see declaration of 'tempCategory'
+  
+C:\Users\dowmi\source\repos\Algo and DS Assignment 1\Algo and DS Assignment 1\Algo and DS Assignment 1.cpp(114,2): error C2360: initialization of 'tempPrice' is skipped by 'case' label
+  C:\Users\dowmi\source\repos\Algo and DS Assignment 1\Algo and DS Assignment 1\Algo and DS Assignment 1.cpp(72,16):
+  see declaration of 'tempPrice'
+  
+C:\Users\dowmi\source\repos\Algo and DS Assignment 1\Algo and DS Assignment 1\Algo and DS Assignment 1.cpp(114,2): error C2360: initialization of 'tempName' is skipped by 'case' label
+  C:\Users\dowmi\source\repos\Algo and DS Assignment 1\Algo and DS Assignment 1\Algo and DS Assignment 1.cpp(71,16):
+  see declaration of 'tempName'
+  
+C:\Users\dowmi\source\repos\Algo and DS Assignment 1\Algo and DS Assignment 1\Algo and DS Assignment 1.cpp(114,2): error C2360: initialization of 'tempId' is skipped by 'case' label
+  C:\Users\dowmi\source\repos\Algo and DS Assignment 1\Algo and DS Assignment 1\Algo and DS Assignment 1.cpp(70,16):
+  see declaration of 'tempId'
+  
+C:\Users\dowmi\source\repos\Algo and DS Assignment 1\Algo and DS Assignment 1\Algo and DS Assignment 1.cpp(167,2): error C2360: initialization of 'tempCategory' is skipped by 'case' label
+  C:\Users\dowmi\source\repos\Algo and DS Assignment 1\Algo and DS Assignment 1\Algo and DS Assignment 1.cpp(73,16):
+  see declaration of 'tempCategory'
+  
+C:\Users\dowmi\source\repos\Algo and DS Assignment 1\Algo and DS Assignment 1\Algo and DS Assignment 1.cpp(167,2): error C2360: initialization of 'tempPrice' is skipped by 'case' label
+  C:\Users\dowmi\source\repos\Algo and DS Assignment 1\Algo and DS Assignment 1\Algo and DS Assignment 1.cpp(72,16):
+  see declaration of 'tempPrice'
+  
+C:\Users\dowmi\source\repos\Algo and DS Assignment 1\Algo and DS Assignment 1\Algo and DS Assignment 1.cpp(167,2): error C2360: initialization of 'tempName' is skipped by 'case' label
+  C:\Users\dowmi\source\repos\Algo and DS Assignment 1\Algo and DS Assignment 1\Algo and DS Assignment 1.cpp(71,16):
+  see declaration of 'tempName'
+  
+C:\Users\dowmi\source\repos\Algo and DS Assignment 1\Algo and DS Assignment 1\Algo and DS Assignment 1.cpp(167,2): error C2360: initialization of 'tempId' is skipped by 'case' label
+  C:\Users\dowmi\source\repos\Algo and DS Assignment 1\Algo and DS Assignment 1\Algo and DS Assignment 1.cpp(70,16):
+  see declaration of 'tempId'
+  
+C:\Users\dowmi\source\repos\Algo and DS Assignment 1\Algo and DS Assignment 1\Algo and DS Assignment 1.cpp(169,2): error C2360: initialization of 'tempCategory' is skipped by 'case' label
+  C:\Users\dowmi\source\repos\Algo and DS Assignment 1\Algo and DS Assignment 1\Algo and DS Assignment 1.cpp(73,16):
+  see declaration of 'tempCategory'
+  
+C:\Users\dowmi\source\repos\Algo and DS Assignment 1\Algo and DS Assignment 1\Algo and DS Assignment 1.cpp(169,2): error C2360: initialization of 'tempPrice' is skipped by 'case' label
+  C:\Users\dowmi\source\repos\Algo and DS Assignment 1\Algo and DS Assignment 1\Algo and DS Assignment 1.cpp(72,16):
+  see declaration of 'tempPrice'
+  
+C:\Users\dowmi\source\repos\Algo and DS Assignment 1\Algo and DS Assignment 1\Algo and DS Assignment 1.cpp(169,2): error C2360: initialization of 'tempName' is skipped by 'case' label
+  C:\Users\dowmi\source\repos\Algo and DS Assignment 1\Algo and DS Assignment 1\Algo and DS Assignment 1.cpp(71,16):
+  see declaration of 'tempName'
+  
+C:\Users\dowmi\source\repos\Algo and DS Assignment 1\Algo and DS Assignment 1\Algo and DS Assignment 1.cpp(169,2): error C2360: initialization of 'tempId' is skipped by 'case' label
+  C:\Users\dowmi\source\repos\Algo and DS Assignment 1\Algo and DS Assignment 1\Algo and DS Assignment 1.cpp(70,16):
+  see declaration of 'tempId'
+  
+C:\Users\dowmi\source\repos\Algo and DS Assignment 1\Algo and DS Assignment 1\Algo and DS Assignment 1.cpp(171,2): error C2360: initialization of 'tempCategory' is skipped by 'case' label
+  C:\Users\dowmi\source\repos\Algo and DS Assignment 1\Algo and DS Assignment 1\Algo and DS Assignment 1.cpp(73,16):
+  see declaration of 'tempCategory'
+  
+C:\Users\dowmi\source\repos\Algo and DS Assignment 1\Algo and DS Assignment 1\Algo and DS Assignment 1.cpp(171,2): error C2360: initialization of 'tempPrice' is skipped by 'case' label
+  C:\Users\dowmi\source\repos\Algo and DS Assignment 1\Algo and DS Assignment 1\Algo and DS Assignment 1.cpp(72,16):
+  see declaration of 'tempPrice'
+  
+C:\Users\dowmi\source\repos\Algo and DS Assignment 1\Algo and DS Assignment 1\Algo and DS Assignment 1.cpp(171,2): error C2360: initialization of 'tempName' is skipped by 'case' label
+  C:\Users\dowmi\source\repos\Algo and DS Assignment 1\Algo and DS Assignment 1\Algo and DS Assignment 1.cpp(71,16):
+  see declaration of 'tempName'
+  
+C:\Users\dowmi\source\repos\Algo and DS Assignment 1\Algo and DS Assignment 1\Algo and DS Assignment 1.cpp(171,2): error C2360: initialization of 'tempId' is skipped by 'case' label
+  C:\Users\dowmi\source\repos\Algo and DS Assignment 1\Algo and DS Assignment 1\Algo and DS Assignment 1.cpp(70,16):
+  see declaration of 'tempId'
+  
